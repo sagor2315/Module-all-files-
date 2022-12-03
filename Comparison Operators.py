@@ -1,0 +1,10 @@
+# Comparison operators are ( <, >, =>, <=, ==, != )
+
+print(6>4)
+print(10<9)
+print (5==5)
+print(5!=4)
+print(4<=5)
+print(4<=3)
+print(4>=3)
+print(4>=3)
